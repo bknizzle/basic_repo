@@ -1,0 +1,6 @@
+Created a new repository on Git Hub
+Created a local repository called basic_repo
+Created some files inside local repo and added some text
+Add and committed changes
+Pushed changes
+Made some more changes
